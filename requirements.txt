@@ -10,3 +10,5 @@ numpy
 streamlit
 plotly
 scipy
+openpyxl
+lightgbm
