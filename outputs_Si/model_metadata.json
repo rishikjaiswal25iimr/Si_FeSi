@@ -1,0 +1,10 @@
+{
+  "alloy": "Si",
+  "scaling_factor": 0.9068340866317443,
+  "anchor_date": "2024-01-08",
+  "anchor_price_kg": 187.5,
+  "horizon_weeks": 156,
+  "train_rows": 539,
+  "feature_count": 313,
+  "market_overlap": 0
+}
